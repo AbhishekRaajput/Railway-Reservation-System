@@ -1,0 +1,15 @@
+This is a C++ code for a Railway Reservation Sysytem. 
+In this program there are User mode and Administrator mode.
+
+USER MODE
+    In user mode you can add , delete or edit you personal details.
+    Make Reservation.
+    Cancel Reservation.
+    Get info about any Train.
+ 
+Administrator Mode
+    In Administrator Mode you can access details of any user.
+    These details can be directly edited by the Admin.
+
+
+If you are new user you can add your details and a new txt file will be generated containing your details.
